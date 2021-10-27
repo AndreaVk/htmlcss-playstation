@@ -1,0 +1,54 @@
+.header-top img {
+    height: 10px;
+} 
+
+.nav_color{
+    color: black;
+    text-decoration: none;
+}
+
+.btn_impost{
+    border: 1px solid rgba(0, 0, 0, 0.7);
+    border-radius: 30px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+.my_btnjumbotron {
+    background-color: #cd3d0f;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    padding: 6px 13px;
+}
+
+.jumbo-bottom img {
+    border-radius: 20px;
+}
+.mc_main-title {
+    font-size: 40px;
+}
+.mc_main-p {
+    color: grey;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.mc_bgnew {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    object-fit: center;
+    background-position-x: center;
+    background-position-y: top;
+}
+
+.jumbo {
+    margin-top: 100px;
+    height: 650px;
+}
+.mc_bg-jumbo {
+    background-image: url(../img/jumbo-bg.png);
+    object-fit: contain;
+    background-position-x: center;
+    background-position-y: top;
+}
