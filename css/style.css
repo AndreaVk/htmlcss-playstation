@@ -89,3 +89,32 @@ h5{
     width: 50%;
     
 }
+
+.mc_main-title {
+    font-size: 35px;
+}
+.mc_main-p {
+    color: grey;
+    font-weight: normal;
+    font-size: 20px;
+}
+.container_bgitt2 {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    object-fit: center;
+    background-position-x: center;
+    background-position-y: top;
+    position: relative;
+}
+.mc_bgplus {
+    background-color: #bebcbb;
+}
+
+.my_btnjumbo{
+    color: white;
+    background-color: rgba(255, 10, 10, 0.9);
+    border-radius: 20px;
+}
+
+.text_row{
+    text-align: left;
+}
