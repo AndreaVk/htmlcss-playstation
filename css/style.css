@@ -117,7 +117,6 @@ h5{
 
 .text_row{
     text-align: left;
-    margin-left: -50px;
 }
 
 .img_position{
@@ -129,4 +128,12 @@ h5{
 .text_row2{
     text-align: left;
     font-size: 14px;
+}
+
+.container_color{
+    background-color:#BEBCBB;
+}
+
+#playstnow{
+    background-color:#161C3B ;
 }
