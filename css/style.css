@@ -137,3 +137,17 @@ h5{
 #playstnow{
     background-color:#161C3B ;
 }
+
+.footer_color{
+    background-color: #00439C;
+}
+
+.color_font{
+    color: white;
+    font-size: 13px;
+}
+
+.list_style{
+    list-style: none;
+    color: white;
+}
