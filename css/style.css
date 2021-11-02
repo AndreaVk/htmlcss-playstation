@@ -151,3 +151,12 @@ h5{
     list-style: none;
     color: white;
 }
+
+.img_size{
+    width: 150px;
+}
+
+.p_font{
+    color: white;
+    font-size: 13px;
+}
